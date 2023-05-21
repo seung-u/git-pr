@@ -1,11 +1,7 @@
-//console.js
-console.log("TEST");
-console.log("GITHUB");
+console.log("Hello World!");
 
-function addNum(x, y) {    // x, y is parameter
-
-    console.log(x+y);
-
+function log(message) {
+  console.log(message);
 }
 
-addNum(2, 3); 
+log("Hello World!");
